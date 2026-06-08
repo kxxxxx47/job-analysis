@@ -1,5 +1,5 @@
 # job-analysis
-招聘网站数据分析可视化（基于 Streamlit）
+招聘网站数据分析
 
 ## 项目结构
 - `app.py`：Streamlit 可视化界面
